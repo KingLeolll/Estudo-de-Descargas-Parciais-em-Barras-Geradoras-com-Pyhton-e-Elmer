@@ -1,0 +1,1 @@
+# Estudo-de-Descargas-Parciais-em-Barras-Geradoras-com-Pyhton-e-Elmer
